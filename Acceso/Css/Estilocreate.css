@@ -1,0 +1,33 @@
+body{}
+
+.modal-content{
+   
+    opacity: .85;
+    padding: 0 20px;
+    box-shadow: 0px 0px 5px #848484;
+}
+.main-section{
+    margin:0 auto;
+    margin-top:5%;
+    padding: 0;
+   
+}
+.user-img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+        }
+.user-img img{
+    width: 80xp;
+    height: 80px;
+    
+}
+.form-group input{
+    height: 35px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+#btnAceptar{
+    width: 55%;
+    margin: 5px 5px;
+}
